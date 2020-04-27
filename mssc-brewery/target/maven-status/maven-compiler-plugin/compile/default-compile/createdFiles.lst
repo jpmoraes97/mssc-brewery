@@ -15,6 +15,7 @@ com/moraesdev/msscbrewery/web/model/BeerDto$BeerDtoBuilder.class
 com/moraesdev/msscbrewery/web/mappers/CustomerMapperImpl.class
 com/moraesdev/msscbrewery/domain/Customer.class
 com/moraesdev/msscbrewery/web/model/CustomerDto$CustomerDtoBuilder.class
+com/moraesdev/msscbrewery/web/mappers/DateMapper.class
 com/moraesdev/msscbrewery/domain/Beer$BeerBuilder.class
 com/moraesdev/msscbrewery/web/model/v2/BeerDtoV2$BeerDtoV2Builder.class
 com/moraesdev/msscbrewery/web/controller/MvcExceptionHandler.class
