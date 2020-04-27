@@ -3,7 +3,9 @@
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/web/model/v2/BeerStyleEnum.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/web/model/CustomerDto.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/services/v2/BeerServiceV2.java
+/home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/web/mappers/CustomerMapper.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/web/controller/MvcExceptionHandler.java
+/home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/domain/Customer.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/web/mappers/BeerMapper.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/services/CustomerServiceImpl.java
 /home/joao/Documentos/GUIAESTUDOTI9/SPRING-CLOUD-BEGGINER-TO-GURU/mssc-brewery/mssc-brewery/src/main/java/com/moraesdev/msscbrewery/services/BeerService.java
